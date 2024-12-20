@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "599950595247",
+    "project_id": "tour-app-b0577",
+    "storage_bucket": "tour-app-b0577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599950595247:android:7de0fbfdadf99397c2305a",
+        "android_client_info": {
+          "package_name": "com.example.trip_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599950595247-6hh5l8ojsb0teetrr59r31me77em5f3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trip_app",
+            "certificate_hash": "435b6cf5ff89dded64943aef958f9910794a5b92"
+          }
+        },
+        {
+          "client_id": "599950595247-88v3d0ef7codhsfgu1q8g10nd4hle4rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLTUcqGxHNWi4crVoHj9qonoGZ7cMrRpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599950595247-88v3d0ef7codhsfgu1q8g10nd4hle4rv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599950595247-au1dng2r33v3tpfcge8iqrdsuu31tg46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
